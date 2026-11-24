@@ -28,8 +28,7 @@ gray. Circles are sized by magnitude.
 Shared basemap data lives one level up in [`../maps/`](../maps/). The
 Ingalls Weather logo lives in
 [`../assets/ingalls_weather_logo.png`](../assets/ingalls_weather_logo.png).
-The Poppins fonts are installed by
-[`../columbia-basin-alerts-map/setup.sh`](../columbia-basin-alerts-map/setup.sh).
+The Poppins fonts are installed by `setup.sh`.
 
 ## Usage
 
